@@ -4,27 +4,27 @@
     "keywords": "Eternity_fox,个人主页",
     "author": "Eternity_fox",
     "logo_img": "./img/icon/logo.png",
-    "logo_text_1": "Eternity-fox",
-    "logo_text_2": "cf",
+    "logo_text_1": "EtFox",
+    "logo_text_2": ".online",
     "github": "Eternity_fox",
     "qq": "2370069890",
     "email": "Eternity_fox@outlook.com",
     "bilibili": "401094550",
     "telegram": "bottom_user",
     "link_1": [
-        "https://space.bilibili.com/401094550",
+        "https://space.bilibili.com/401094550/article",
         "fa-solid fa-blog",
-        "b站"
+        "专栏"
     ],
     "link_2": [
-        "https://pan.linhongyu.com/",
+        "https://pan.linhongyu.cn/",
         "fa-solid fa-cloud",
         "网盘"
     ],
     "link_3": [
-        "https://music.163.com/",
+        "http://ms.etfox.online/",
         "fa-solid fa-music",
-        "音乐"
+        "短信测压"
     ],
     "link_4": [
         "https://start.eternity-fox.cf/",
@@ -32,9 +32,9 @@
         "起始页"
     ],
     "link_5": [
-        "https://web.imsyy.top/",
+        "https://fireworks.etfox.online//",
         "fa-solid fa-book-bookmark",
-        "网址集"
+        "放烟花"
     ],
     "link_6": [
         "https://p.etfox.online/",
@@ -42,5 +42,5 @@
         "商店"
     ],
     "Copyright_text": "Eternity_fox",
-    "beian": "粤ICP备2022018134号-1"
+    "beian": "粤ICP备2023018134号-1"
 }
